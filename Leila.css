@@ -1,0 +1,32 @@
+body{
+
+}
+
+   .pink-div {
+	   width:200px;
+	   height:200px;
+	   background-color:pink;
+	   border-style:solid;
+	   border-style:blue;
+	   background-size:cover;
+	   margin-left:40px;
+	  
+   } 
+    .green-div {
+		width:200px;
+		height:200px;
+		background-color:green;
+		border-style:solid;
+		border-style:blue;
+		background-size:cover;
+		margin-left:245px;
+	   
+   }
+    .blue-div {
+		width:200px;
+		height:200px;
+		background-color:blue;
+		border-style:solid;
+		border-style:blue;
+		background-size:cover;
+		margin-left:450px;
